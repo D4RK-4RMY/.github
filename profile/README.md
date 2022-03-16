@@ -16,4 +16,4 @@
 
 ###### <p align="center"> *You can check our [WebSite](https://darkarmy.live/)✌*
 
-###### <p align="center">DarkTor is an anonymization script which redirects all internet traffic through SOCKS5 tor proxy<p align="center">
+###### <p align="center">We are DARKARMY <p align="center">
