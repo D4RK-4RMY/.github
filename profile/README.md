@@ -10,10 +10,10 @@
 
   <br>
   
-  ### <p align="center">DarkTor<p align="center">
+  ### <p align="center"> DARKARMY <p align="center">
  
 ###### <p align="center">*This is official repository maintained by Us.*
-###### <p align="center"> [**DarkTor**](https://github.com/D4RK-4RMY/DarkTor) ❤️ By [**DARKARMY**](https://darkarmy.live/)
+
 ###### <p align="center"> *You can check our [WebSite](https://darkarmy.live/)✌*
 
 ###### <p align="center">DarkTor is an anonymization script which redirects all internet traffic through SOCKS5 tor proxy<p align="center">
