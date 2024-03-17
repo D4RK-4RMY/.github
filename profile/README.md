@@ -15,7 +15,7 @@
 ###### <p align="center">*This is official repository maintained by Us.*
 
 ###### <p align="center"> *Our Website [Dark4rmy.in](https://dark4rmy.in/)*
-###### <p align="center"> *Our Forum [DarkForum](https://darkforums.pro/)*
+
 
 <!-- ###### <p align="center">We are DARKARMY <p align="center">-->
 
